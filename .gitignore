@@ -1,0 +1,5 @@
+sales_raw.csv
+output/
+__pycache__/
+spark-warehouse/
+metastore_db/
